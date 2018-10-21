@@ -1,0 +1,28 @@
+h1 {
+
+  font-size: 22pt;
+}
+
+.title {
+
+  text-align: left;
+}
+
+
+
+table {
+  border-collapse:collapse;
+  width: 500px;
+  height: 250px;
+
+}
+
+th {
+  border: 1px solid black;
+  text-align: center;
+}
+
+td {
+  border: 1px solid black;
+  text-align: center;
+}
